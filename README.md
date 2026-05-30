@@ -147,3 +147,6 @@ Through a structured approach leveraging **LangChain** and **LangGraph**, we hav
 ✅ **Seamless Deployment**: Successfully deployed the entire workflow using **Gradio**, providing an efficient and intuitive user experience for accessing personalized, trustworthy news URLs and summaries.
 
 At this stage, we have established an efficient, structured, and interest-driven workflow that retrieves, filters, and refines news content, ensuring an optimal and highly personalized user experience.
+
+Note# 
+Code examples have been omitted to maintain confidentiality.
